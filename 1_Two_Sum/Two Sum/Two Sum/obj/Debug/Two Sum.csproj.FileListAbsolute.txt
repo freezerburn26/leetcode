@@ -1,0 +1,7 @@
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\bin\Debug\Two Sum.exe.config
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\bin\Debug\Two Sum.exe
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\bin\Debug\Two Sum.pdb
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\obj\Debug\Two Sum.csprojResolveAssemblyReference.cache
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\obj\Debug\Two Sum.csproj.CoreCompileInputs.cache
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\obj\Debug\Two Sum.exe
+C:\Projects\leetcode\1_Two_Sum\Two Sum\Two Sum\obj\Debug\Two Sum.pdb
